@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\PairGame\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\PairGame\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\PairGame\Game\bin\Debug\Game.exe.config
+C:\ElevenFiftyProjects\PairGame\Game\bin\Debug\Game.exe
+C:\ElevenFiftyProjects\PairGame\Game\bin\Debug\Game.pdb
+C:\ElevenFiftyProjects\PairGame\Game\obj\Debug\Game.exe
+C:\ElevenFiftyProjects\PairGame\Game\obj\Debug\Game.pdb
